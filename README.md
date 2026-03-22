@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @jeffersonbauer
-- 👀 I’m interested in instant financial reporting.
-- 🌱 I’m currently learning AWS, C#, PostgresSQL
-- 💞️ I’m looking to collaborate on VSTO Excel programs
 - 📫 How to reach me jefferson.l.bauer@gmail.com
 
 <!---
